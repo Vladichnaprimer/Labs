@@ -1,1 +1,1 @@
-# This is a laboratory works of Parallel Computing Theory
+# This is a laboratory works on the Theory of Parallel Computing
