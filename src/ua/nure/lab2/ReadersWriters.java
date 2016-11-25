@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.Random;
 
 public class ReadersWriters {
-    private static final int COUNT_OF_ITERATORS = 5;
-    private static final int COUNT_OF_READERS = 5;
+    private static final int COUNT_OF_ITERATORS = 3;
+    private static final int COUNT_OF_READERS = 3;
     private static final StringBuilder BUFF = new StringBuilder();
     private static final int BUFFER_SIZE = 10;
     private static final int SLEEP_TIME = 5;
